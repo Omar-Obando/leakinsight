@@ -6,7 +6,6 @@
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-LeakInsight-0055ff?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/codigo6-com/leakinsight?style=for-the-badge)](https://github.com/codigo6-com/leakinsight)
 
 **Protect your organization from credential breaches with the most comprehensive leak detection API**
 
@@ -168,7 +167,7 @@ Choose the plan that fits your needs:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/codigo6-com/leakinsight.git
+git clone https://github.com/Omar-Obando/leakinsight/.git
 cd leakinsight
 ```
 
@@ -345,8 +344,8 @@ We welcome contributions! Whether it's:
 ### Need Help?
 - 📚 **API Documentation**: [RapidAPI Docs](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)
 - 💬 **RapidAPI Messaging**: Contact us directly through RapidAPI
-- 🐛 **Bug Reports**: [Open an issue on GitHub](https://github.com/codigo6-com/leakinsight/issues)
-- 💡 **Feature Requests**: [Submit via GitHub Issues](https://github.com/codigo6-com/leakinsight/issues)
+- 🐛 **Bug Reports**: [Open an issue on GitHub](https://github.com/Omar-Obando/leakinsight//issues)
+- 💡 **Feature Requests**: [Submit via GitHub Issues](https://github.com/Omar-Obando/leakinsight//issues)
 
 ### Enterprise Solutions
 Looking for custom solutions or higher limits? Contact us for:
@@ -387,21 +386,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🌟 Star This Repository
-
-If you find LeakInsight useful, please **star this repository** to help others discover it!
-
-[![GitHub stars](https://img.shields.io/github/stars/codigo6-com/leakinsight?style=social)](https://github.com/codigo6-com/leakinsight)
-
----
-
 ## 🔗 Quick Links
 
 - 🚀 **[Subscribe to API](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)**
 - 📖 **[API Documentation](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)**
-- 💬 **[Join Discussion](https://github.com/codigo6-com/leakinsight/discussions)**
-- 🐛 **[Report Issues](https://github.com/codigo6-com/leakinsight/issues)**
-- ⭐ **[Star on GitHub](https://github.com/codigo6-com/leakinsight)**
+- 💬 **[Join Discussion](https://github.com/Omar-Obando/leakinsight//discussions)**
+- 🐛 **[Report Issues](https://github.com/Omar-Obando/leakinsight//issues)**
+- ⭐ **[Star on GitHub](https://github.com/Omar-Obando/leakinsight/)**
 
 ---
 
